@@ -19,5 +19,3 @@ function solve(number) {
     }
     console.log(sum);
 }
-
-solve(2222222);
