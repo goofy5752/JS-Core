@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b19f9476-97a6-4e18-a705-1f35a374ef33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercise - JavaScript Syntax and Operators/10. Coffee Machine.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - JavaScript Syntax and Operators/7. Time to Walk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - JavaScript Syntax and Operators/8. Flight Timetable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise - JavaScript Syntax and Operators/9. Calorie Object.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise - JavaScript Syntax and Operators/6. Same Numbers.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise - JavaScript Syntax and Operators/6. Same Numbers.js" afterDir="false" />
-    </list>
+    <list default="true" id="b19f9476-97a6-4e18-a705-1f35a374ef33" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -42,7 +35,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercise - JavaScript Syntax and Operators/6. Same Numbers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
+            <state relative-caret-position="340">
               <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
             </state>
           </provider>
@@ -104,10 +97,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="648" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="647" />
     <option name="width" value="1280" />
-    <option name="height" value="1038" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -202,14 +195,15 @@
       <workItem from="1555172008165" duration="105000" />
       <workItem from="1555172232308" duration="1554000" />
       <workItem from="1555317052079" duration="4390000" />
+      <workItem from="1556004586809" duration="3000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6799000" />
+    <option name="totallyTimeSpent" value="6802000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="519" y="0" width="1024" height="830" extended-state="1" />
+    <frame x="518" y="0" width="1024" height="831" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11955421" />
@@ -261,15 +255,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercise - JavaScript Syntax and Operators/6. Same Numbers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
+        <state relative-caret-position="340">
           <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise - JavaScript Syntax and Operators/8. Flight Timetable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -277,6 +264,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise - JavaScript Syntax and Operators/8. Flight Timetable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
