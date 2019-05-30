@@ -61,3 +61,4 @@ function solve(dayOfWeek, service, time) {
         console.log(price);
     }
 }
+//
